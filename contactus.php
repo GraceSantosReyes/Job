@@ -164,10 +164,10 @@ include("configure1.php");
 					    </tr>
 						<br><br>
 						<tr> <i class=" glyphicon glyphicon-earphone red"></i>
-						<font face="Courier" size="4" color="black">TELEPHONE </font>
+						<font face="Courier" size="4" color="black">CELLPHONE NO. </font>
 					    </tr><br><br>
 						<tr>
-						<font face="Courier" size="4" color="blue">988-4242 </font>
+						<font face="Courier" size="4" color="blue">0926-234-6789 </font>
 					    </tr><br><br>
 						<tr> <i class=" glyphicon glyphicon-map-marker red"></i>
 						<font face="Courier" size="4" color="black"> ADDRESS </font>
